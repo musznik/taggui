@@ -8,6 +8,11 @@ like Stable Diffusion.
 
 <img src='images/screenshot-v1.9.0.png' alt='TagGUI screenshot' width='100%'>
 
+## Fork Features
+
+- Do not show tags in completer popup during image addition if they already exist in image
+- When copying tags, add only those that are not repeated
+
 ## Features
 
 - Keyboard-friendly interface for fast tagging
